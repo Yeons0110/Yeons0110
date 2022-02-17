@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 
 
-![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true)
+![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=nightowl)
 
-[![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&theme=Rainbow-mini&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
+[![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&theme=nightowl&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
