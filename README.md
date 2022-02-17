@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🏆GitHub Profile Trophy🏆</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=gruvbox_light&column=7)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=gruvbox_light&column=7)
 
 
 
