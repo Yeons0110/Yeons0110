@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 ![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true)
 [![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
+
+<!-- <img src="https://img.shields.io/badge/디스플레이될_아이콘명-원하는컬러?style=flat-square&logo=추가하고싶은_아이콘의_정식명칭&logoColor=로고컬러"/> -->
+<!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
