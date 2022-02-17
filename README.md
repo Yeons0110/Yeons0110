@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 ### <h3 align="center">🏆GitHub Profile Trophy🏆</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=flat&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=gruvbox_light&column=7)
 
 
 
-![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=nightowl)
+![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=gruvbox_light)
 
-[![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&theme=nightowl&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
+[![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&theme=gruvbox_light&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=syg01103)](https://solved.ac/profile/syg01103)
 
