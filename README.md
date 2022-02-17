@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=syg01103)](https://solved.ac/profile/syg01103)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
 
