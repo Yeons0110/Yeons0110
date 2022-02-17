@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
  </p>
 
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=flat&column=7)
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=flat&column=7)
 
 ![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true)
 [![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
