@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
  </p>
 
-### 🏆GitHub Profile Trophy🏆
- ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=flat&column=7)
+### <h3 align="center">🏆GitHub Profile Trophy🏆</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=flat&column=7)
 
 
 
