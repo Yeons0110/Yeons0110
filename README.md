@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://img.shields.io/badge/디스플레이될_아이콘명-원하는컬러?style=flat-square&logo=추가하고싶은_아이콘의_정식명칭&logoColor=로고컬러"/> -->
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-<!-- <img src="https://img.shields.io/badge/NodeJS-3766AB?style=flat-square&logo=NodeJS&logoColor=white"/></a>&nbsp  -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
