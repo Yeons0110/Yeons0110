@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</br>
+</br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -23,17 +24,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
  </p>
 
-<h3 align="center">🏆GitHub Profile Trophy🏆</h3>
-
-   ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&theme=gruvbox_light&column=7)
-
-
+<h3><b> 📚 Github Stats 📚 </b></h3>
 
 ![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=gruvbox_light)
 
 [![Yeons0110's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&show_icons=true&hide_border=true&title_color=004386&theme=gruvbox_light&icon_color=004386&layout=compact)](https://github.com/Yeons0110)
 
-
+<h3> 🧸 Baekjoon Rank 🧸</h3>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
+
+
+<h3>🏆GitHub Profile Trophy🏆</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&aline:center&theme=gruvbox_light&column=7)
 
