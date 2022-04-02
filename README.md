@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <h3><b> 📚 Github Stats 📚 </b></h3>
 목표 : 커밋 700개
+목표 : 백준 골드 만들기
+
 
 ![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=gruvbox_light)
 
