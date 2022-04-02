@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </p>
 
 <h3><b> 📚 Github Stats 📚 </b></h3>
-목표 : 커밋 700개
+목표 : 커밋 700개 <br>
 목표 : 백준 골드 만들기
 
 
