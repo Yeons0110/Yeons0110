@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
+<img src="http://mazandi.herokuapp.com/api?handle=syg01103&theme=warm"/>
 </p>
 
 <h3>🏆GitHub Profile Trophy🏆</h3>
