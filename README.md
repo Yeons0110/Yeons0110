@@ -38,20 +38,27 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@yeons0110"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@yeons0110"/></a>
 </p>
 
-<h3><b> 📚 Github Stats 📚 </b></h3>
+<h3 align="center"><b> 📚 Github Stats 📚 </b></h3>
+<p align="center">
 목표 : 커밋 700개 <br>
 목표 : 백준 골드 만들기
-<p>
+</p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeons0110&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 
-<h3> ⚡⚡🧸 Baekjoon Rank 🧸⚡⚡</h3>
+<h3 align="center"> ⚡⚡🧸 Baekjoon Rank 🧸⚡⚡</h3>
+<p align="center">
+
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
+</p>
 
 <h3>🏆GitHub Profile Trophy🏆</h3>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&aline:center&theme=gruvbox_light&column=7)
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=123&section=footer)
