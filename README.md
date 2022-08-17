@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Seong%20Yeon&fontSize=30)
 <h3 align="center"><b> 🛠 Tech Stack 🛠 </b></h3>
 </br>
 <p align="center">
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <h3><b> 📚 Github Stats 📚 </b></h3>
 목표 : 커밋 700개 <br>
 목표 : 백준 골드 만들기
-<img src="http://mazandi.herokuapp.com/api?handle={syg01103}&theme=cold"/>
 
 
 ![Yeons0110's github stats](https://github-readme-stats.vercel.app/api?username=Yeons0110&show_icons=true&theme=gruvbox_light)
@@ -42,6 +41,8 @@ Here are some ideas to get you started:
 
 
 <h3>🏆GitHub Profile Trophy🏆</h3>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=Yeons0110&aline:center&theme=gruvbox_light&column=7)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
