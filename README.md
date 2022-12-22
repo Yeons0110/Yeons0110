@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=177&section=header&text=Seong%20Yeon&fontSize=30)
 
 <h3 align="center"><b>🎮 What I am most interested in 🎮</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> -->
