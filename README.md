@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 
 -->
-<h3 align="center"> ⚡⚡🧸 Baekjoon Rank 🧸⚡⚡</h3>
+<h3 align="center"> ⚡🧸 Baekjoon Rank 🧸⚡</h3>
 <p align="center">
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
