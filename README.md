@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 </p>
 
 -->
-<h3 align="center"> ⚡🧸 Baekjoon Rank 🧸⚡</h3>
+<!-- <h3 align="center"> ⚡🧸 Baekjoon Rank 🧸⚡</h3>
 <p align="center">
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=syg01103)](https://solved.ac/syg01103)
 <img src="http://mazandi.herokuapp.com/api?handle=syg01103&theme=warm"/>
-</p>
+</p> -->
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=123&section=footer)
